@@ -1,9 +1,0 @@
-{
-  "lessons": [
-    {
-      "id": "algebra",
-      "title": "Algebra: Solving for x (Downloaded)",
-      "body": "Goal: Solve simple linear equations.\n\nKey idea:\nDo the same operation to both sides.\n\nWorked example:\n2x + 3 = 11\n2x = 8\nx = 4\n\nQuick check:\nSolve: 3x - 5 = 10"
-    }
-  ]
-}
