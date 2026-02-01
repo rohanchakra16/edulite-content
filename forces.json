@@ -1,0 +1,9 @@
+{
+  "lessons": [
+    {
+      "id": "forces",
+      "title": "Forces: Newton’s 2nd Law (Downloaded)",
+      "body": "Goal: Connect force, mass, and acceleration.\n\nKey idea:\nNewton’s 2nd Law: F = m a\nForce causes acceleration.\n\nWorked example:\nIf m = 2 kg and a = 3 m/s^2,\nF = 2 × 3 = 6 N\n\nQuick check:\nIf F = 10 N and m = 5 kg, what is a?"
+    }
+  ]
+}
